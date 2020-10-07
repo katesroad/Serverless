@@ -1,0 +1,4 @@
+# README
+
+- App architecture
+
