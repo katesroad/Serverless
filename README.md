@@ -21,5 +21,7 @@ Serverless computing is a cloud computing execution model in which the cloud pro
 
   ![event-triggers.png](./imgs/02.event-triggers.png)
   - serverless.yml
-  
+
   ![yml file](./imgs/03.serverless.png)
+
+- [Infrastructure as Code(IaC)](https://www.serverless.com/)
