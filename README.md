@@ -15,13 +15,28 @@ Serverless computing is a cloud computing execution model in which the cloud pro
 **No need to worry scaling, You can also comibine server application with serverless app.**
 
 - [Serverless Framework](https://www.serverless.com/)
+
   - (**FaaS**) The building block for servlerss are functions
   - (**Event Triggers**)
 
-
   ![event-triggers.png](./imgs/02.event-triggers.png)
+
   - serverless.yml
 
   ![yml file](./imgs/03.serverless.png)
 
 - [Infrastructure as Code(IaC)](https://www.serverless.com/)
+
+- [Microservice Architecture]() Vs [Monolithic Architecture]
+
+  ![monolitthic](./imgs/04.monolithic-achitecture.png)
+  vs
+  ![05.microservice-architecture.png](./imgs/05.microservice-architecture.png)
+
+  -**Why Microservices**
+
+    Microservices Architecture is one solution to the challenge of distribution system
+    
+    > 1.  greately reduce dependenc between development teams
+    > 2.  can scale independently of other services
+    > 3.  Can be deployed and uplodated independently of other services
