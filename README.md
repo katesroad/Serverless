@@ -40,3 +40,10 @@ Serverless computing is a cloud computing execution model in which the cloud pro
     > 1.  greately reduce dependenc between development teams
     > 2.  can scale independently of other services
     > 3.  Can be deployed and uplodated independently of other services
+
+- **Communication between services**
+  - Http
+  - Messaging(Pub/Sub)
+  - Message Queue
+  - Event Streams
+
